@@ -43,6 +43,7 @@
 @@||powerbi.com^
 @@||sharepoint.com^
 @@||sharepointonline.com^
+@@||skype.com^
 @@||uservoice.com^
 @@||verisign.com^
 @@||visualstudio.com^
