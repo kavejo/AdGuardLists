@@ -1,5 +1,6 @@
 @@||1drv.com^
 @@||a-msedge.net^
+@@||aka.ms^
 @@||amazon.it^
 @@||appcenter.ms^
 @@||apple.com^
@@ -8,10 +9,12 @@
 @@||browser.pipe.aria.microsoft.com^
 @@||configuration.apple.com.akadns.net^
 @@||digicert.com^
+@@||docker.io^
 @@||emby.media^
 @@||entrust.net^
 @@||facebook.com^
 @@||freshdesk.com^
+@@||gamepass.com^
 @@||godaddy.com^
 @@||helpshift.com^
 @@||hockeyapp.net^
