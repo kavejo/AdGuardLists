@@ -26,6 +26,7 @@
 @@||icloud.com^
 @@||itunes-apple.com.akadns.net^
 @@||kaspersky.com^
+@@||lge.com^
 @@||lgin.msa.trafficmanager.net^
 @@||live.com^
 @@||live.net^
@@ -49,9 +50,13 @@
 @@||pad.phonefactor.net^
 @@||plex.com^
 @@||powerbi.com^
+@@||raiplay.it^
 @@||sharepoint.com^
 @@||sharepointonline.com^
+@@||sky.com^
+@@||sky.it^
 @@||skype.com^
+@@||tv.client.ott.sky.com^
 @@||uservoice.com^
 @@||verisign.com^
 @@||visualstudio.com^
