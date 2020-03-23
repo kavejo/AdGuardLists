@@ -10,6 +10,7 @@
 @@||digicert.com^
 @@||emby.media^
 @@||entrust.net^
+@@||facebook.com^
 @@||freshdesk.com^
 @@||godaddy.com^
 @@||helpshift.com^
@@ -34,6 +35,8 @@
 @@||onedrive.com^
 @@||onenote.net^
 @@||origin-apple.com.akadns.net^
+@@||origin.guzzoni-apple.com.akadns.net^
+@@||pad.phonefactor.net^
 @@||plex.com^
 @@||powerbi.com^
 @@||sharepoint.com^
