@@ -23,7 +23,8 @@
 @@||login.windows.net^
 @@||ls-apple.com.akadns.net^
 @@||microsoft.com^
-@@||microsoftonline.com
+@@||microsoft.com.edgesuite.net^
+@@||microsoftonline.com^
 @@||msedge.net^
 @@||msn.com^
 @@||office.com^
