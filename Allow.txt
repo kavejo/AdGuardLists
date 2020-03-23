@@ -29,6 +29,7 @@
 @@||office365.com^
 @@||onedrive.com^
 @@||onenote.net^
+@@||origin-apple.com.akadns.net^
 @@||p20-buy.itunes-apple.com.akadns.net^
 @@||plex.com^
 @@||powerbi.com^
