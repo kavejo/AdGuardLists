@@ -15,6 +15,7 @@
 @@||docker.io^
 @@||emby.media^
 @@||entrust.net^
+@@||epgsky.com^
 @@||facebook.com^
 @@||freshdesk.com^
 @@||gamepass.com^
@@ -37,6 +38,8 @@
 @@||microsoftonline.com^
 @@||msedge.net^
 @@||msn.com^
+@@||mytv.api.nowtv.com^
+@@||nowtv.com^
 @@||o365weve.com^
 @@||office.com^
 @@||office.net^
@@ -56,6 +59,7 @@
 @@||sky.com^
 @@||sky.it^
 @@||skype.com^
+@@||spotify.com^
 @@||tv.client.ott.sky.com^
 @@||uservoice.com^
 @@||verisign.com^
