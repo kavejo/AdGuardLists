@@ -40,6 +40,7 @@
 @@||msn.com^
 @@||mytv.api.nowtv.com^
 @@||nowtv.com^
+@@||nowtv.it^
 @@||o365weve.com^
 @@||office.com^
 @@||office.net^
