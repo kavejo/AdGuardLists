@@ -37,10 +37,12 @@
 @@||onenote.net^
 @@||origin-apple.com.akadns.net^
 @@||origin.guzzoni-apple.com.akadns.net^
+@@||outlook.com^
 @@||pad.phonefactor.net^
 @@||plex.com^
 @@||powerbi.com^
 @@||sharepoint.com^
+@@||sharepointonline.com^
 @@||uservoice.com^
 @@||verisign.com^
 @@||visualstudio.com^
