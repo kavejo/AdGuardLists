@@ -29,6 +29,7 @@
 @@||microsoftonline.com^
 @@||msedge.net^
 @@||msn.com^
+@@||o365weve.com^
 @@||office.com^
 @@||office.net^
 @@||office365.com^
