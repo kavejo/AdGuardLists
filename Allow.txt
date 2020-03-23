@@ -3,11 +3,14 @@
 @@||aka.ms^
 @@||amazon.it^
 @@||appcenter.ms^
+@@||apple.com.edgekey.net^
 @@||apple.com^
+@@||apple.news^
 @@||areaclienti.windtre.it^
 @@||bing.com^
 @@||browser.pipe.aria.microsoft.com^
 @@||configuration.apple.com.akadns.net^
+@@||courier2-push-apple.com.akadns.net^
 @@||digicert.com^
 @@||docker.io^
 @@||emby.media^
@@ -16,6 +19,7 @@
 @@||freshdesk.com^
 @@||gamepass.com^
 @@||godaddy.com^
+@@||guzzoni-apple.com.akadns.net^
 @@||helpshift.com^
 @@||hockeyapp.net^
 @@||icloud.com.akadns.net^
@@ -27,8 +31,8 @@
 @@||live.net^
 @@||login.windows.net^
 @@||ls-apple.com.akadns.net^
-@@||microsoft.com^
 @@||microsoft.com.edgesuite.net^
+@@||microsoft.com^
 @@||microsoftonline.com^
 @@||msedge.net^
 @@||msn.com^
@@ -38,6 +42,7 @@
 @@||office365.com^
 @@||onedrive.com^
 @@||onenote.net^
+@@||origin-apple.com.akadns.net^
 @@||origin-apple.com.akadns.net^
 @@||origin.guzzoni-apple.com.akadns.net^
 @@||outlook.com^
