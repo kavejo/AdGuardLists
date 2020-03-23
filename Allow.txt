@@ -1,10 +1,13 @@
+@@||1drv.com^
 @@||amazon.it^
 @@||appcenter.ms^
 @@||apple.com^
+@@||areaclienti.windtre.it^
 @@||bing.com^
 @@||browser.pipe.aria.microsoft.com^
 @@||configuration.apple.com.akadns.net^
 @@||digicert.com^
+@@||emby.media^
 @@||entrust.net^
 @@||freshdesk.com^
 @@||godaddy.com^
@@ -12,6 +15,7 @@
 @@||hockeyapp.net^
 @@||icloud.com^
 @@||kaspersky.com^
+@@||lgin.msa.trafficmanager.net^
 @@||live.com^
 @@||live.net^
 @@||login.windows.net^
@@ -25,6 +29,8 @@
 @@||office365.com^
 @@||onedrive.com^
 @@||onenote.net^
+@@||p20-buy.itunes-apple.com.akadns.net^
+@@||plex.com^
 @@||powerbi.com^
 @@||sharepoint.com^
 @@||uservoice.com^
