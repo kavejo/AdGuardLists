@@ -10,6 +10,7 @@
 @@||bing.com^
 @@||browser.pipe.aria.microsoft.com^
 @@||configuration.apple.com.akadns.net^
+@@||courier-push-apple.com.akadns.net^
 @@||courier2-push-apple.com.akadns.net^
 @@||digicert.com^
 @@||docker.io^
